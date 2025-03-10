@@ -38,6 +38,7 @@ body {
   width: 75px;
   height: 75px;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 h3 {
@@ -45,7 +46,7 @@ h3 {
 }
 
 h6 {
-  color: lime;
+  color: hsl(120, 73%, 65%);
   font-size: 14px;
 }
 
